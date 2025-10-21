@@ -1,0 +1,8 @@
+streamlit
+torch
+torchvision
+transformers
+opencv-python-headless
+pillow
+numpy
+matplotlib
