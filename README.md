@@ -11,7 +11,7 @@ app.py – Streamlit app to visualize segmentation results.
 
 README.md – Description of the project (this file).
 
-(Optional) requirements.txt – list of dependencies if you create one.
+requirements.txt – list of dependencies.
 
 ⚙️ Installation
 1️⃣ Clone the repository
