@@ -15,8 +15,10 @@ requirements.txt – list of dependencies.
 
 ⚙️ Installation
 1️⃣ Clone the repository
-git clone https://github.com/your-username/sam-oilspill-segmentation.git
-cd sam-oilspill-segmentation
+git clone https://github.com/soumikaaddala/Infosys_Ai_Oil_Spill.git
+
+cd Infosys_Ai_Oil_Spill
+
 
 2️⃣ Install dependencies
 
